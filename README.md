@@ -1,6 +1,6 @@
 # Binance API
 
-*Each 24 hours api results will be updates*
+*Each 24 hours API results will be updat*
 
 **All public APIs will be added soon**
 
