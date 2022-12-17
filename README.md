@@ -6,4 +6,4 @@
 
 ## How to use
 
-In case you want to call exchangeInfo API you can use `https://raw.githubusercontent.com/SM2A/Cryptocurrency_API/main/exchangeInfo.json`
+In case you want to call exchangeInfo API you can use `https://raw.githubusercontent.com/SM2A/Cryptocurrency_API/main/exchangeInfoCompact.json` or `https://raw.githubusercontent.com/SM2A/Cryptocurrency_API/main/exchangeInfoPretty.json`
