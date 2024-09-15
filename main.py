@@ -10,3 +10,5 @@ if len(result.text) > 1000 :
         outfile.write(json.dumps(json_text, indent=4))
     with open('exchangeInfoCompact.json', 'w') as outfile:
         outfile.write(result.text)
+else:
+    print(result.text)
